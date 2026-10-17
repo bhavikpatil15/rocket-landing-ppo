@@ -7,7 +7,6 @@ A reproducible, CPU-based comparison of the standard **LunarLander-v3** reward f
 
 ## 🎬 Rocket Landing Videos
 
-**Video gallery — add your recordings here.** Put your MP4s inside `media/` with the names below. GitHub will display links to the videos, which visitors can click to watch.
 
 ### 🚀 Baseline agent — successful landing
 
