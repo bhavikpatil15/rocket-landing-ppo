@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/b9020941-2e81-4fdd-8b74-363596d85547
 
 **[Space for your baseline video preview or screenshot]**
 
-### 🛬 Reward-shaped agent — landing demonstration
+### 🛬 Reward-shaped agent — landing demonstration (if want to download the video )
 
 [▶ Watch reward-shaped rocket landing (MP4)](media/shaped_landing.mp4)
 
