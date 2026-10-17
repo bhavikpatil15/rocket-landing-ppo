@@ -1,0 +1,8 @@
+{
+  "mode": "baseline",
+  "seed": 42,
+  "requested_steps": 1000000,
+  "actual_steps": 1000448,
+  "train_seconds": 144.24,
+  "model": "runs/baseline/model.zip"
+}

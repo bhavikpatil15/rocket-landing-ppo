@@ -1,0 +1,82 @@
+{
+  "model": "runs/baseline/model.zip",
+  "episodes": 100,
+  "seed_start": 1000,
+  "mean_raw_reward": 98.005659,
+  "landing_success_rate": 0.69,
+  "avg_steps": 564.35,
+  "best_5": [
+    {
+      "seed": 1004,
+      "raw_reward": 249.6938,
+      "shaped_reward": 249.6938,
+      "steps": 497,
+      "landing_success": 1
+    },
+    {
+      "seed": 1010,
+      "raw_reward": 236.8663,
+      "shaped_reward": 236.8663,
+      "steps": 642,
+      "landing_success": 1
+    },
+    {
+      "seed": 1038,
+      "raw_reward": 230.1879,
+      "shaped_reward": 230.1879,
+      "steps": 525,
+      "landing_success": 1
+    },
+    {
+      "seed": 1006,
+      "raw_reward": 226.8309,
+      "shaped_reward": 226.8309,
+      "steps": 508,
+      "landing_success": 1
+    },
+    {
+      "seed": 1019,
+      "raw_reward": 225.4353,
+      "shaped_reward": 225.4353,
+      "steps": 526,
+      "landing_success": 1
+    }
+  ],
+  "worst_5": [
+    {
+      "seed": 1042,
+      "raw_reward": -153.1159,
+      "shaped_reward": -153.1159,
+      "steps": 534,
+      "landing_success": 0
+    },
+    {
+      "seed": 1015,
+      "raw_reward": -148.2656,
+      "shaped_reward": -148.2656,
+      "steps": 622,
+      "landing_success": 0
+    },
+    {
+      "seed": 1093,
+      "raw_reward": -147.9687,
+      "shaped_reward": -147.9687,
+      "steps": 465,
+      "landing_success": 0
+    },
+    {
+      "seed": 1055,
+      "raw_reward": -129.4423,
+      "shaped_reward": -129.4423,
+      "steps": 608,
+      "landing_success": 0
+    },
+    {
+      "seed": 1048,
+      "raw_reward": -124.9383,
+      "shaped_reward": -124.9383,
+      "steps": 607,
+      "landing_success": 0
+    }
+  ]
+}

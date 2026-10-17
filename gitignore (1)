@@ -1,0 +1,25 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Mac / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files and training logs
+*.log
+*.tmp
+runs/**/checkpoints/
+runs/**/tensorboard/
+runs/**/tb/
+events.out.tfevents.*
+
+# Keep final models, charts, reports, evaluation results and demo videos.
+# Files such as runs/baseline/model.zip, runs/shaped/model.zip,
+# runs/comparison.png, runs/report.md and media/*.mp4 are NOT ignored.

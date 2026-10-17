@@ -1,0 +1,54 @@
+{
+  "model": "smoke/shaped/model.zip",
+  "episodes": 3,
+  "seed_start": 1000,
+  "mean_raw_reward": -375.04913333333326,
+  "landing_success_rate": 0.0,
+  "avg_steps": 184.66666666666666,
+  "best_5": [
+    {
+      "seed": 1001,
+      "raw_reward": -283.0164,
+      "shaped_reward": -283.0164,
+      "steps": 117,
+      "landing_success": 0
+    },
+    {
+      "seed": 1000,
+      "raw_reward": -311.4882,
+      "shaped_reward": -311.4882,
+      "steps": 197,
+      "landing_success": 0
+    },
+    {
+      "seed": 1002,
+      "raw_reward": -530.6428,
+      "shaped_reward": -530.6428,
+      "steps": 240,
+      "landing_success": 0
+    }
+  ],
+  "worst_5": [
+    {
+      "seed": 1002,
+      "raw_reward": -530.6428,
+      "shaped_reward": -530.6428,
+      "steps": 240,
+      "landing_success": 0
+    },
+    {
+      "seed": 1000,
+      "raw_reward": -311.4882,
+      "shaped_reward": -311.4882,
+      "steps": 197,
+      "landing_success": 0
+    },
+    {
+      "seed": 1001,
+      "raw_reward": -283.0164,
+      "shaped_reward": -283.0164,
+      "steps": 117,
+      "landing_success": 0
+    }
+  ]
+}

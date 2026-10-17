@@ -1,0 +1,8 @@
+{
+  "mode": "baseline",
+  "seed": 42,
+  "requested_steps": 10000,
+  "actual_steps": 10240,
+  "train_seconds": 1.53,
+  "model": "smoke/baseline/model.zip"
+}
