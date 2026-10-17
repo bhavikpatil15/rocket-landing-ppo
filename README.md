@@ -9,7 +9,7 @@ A reproducible, CPU-based comparison of the standard **LunarLander-v3** reward f
 
 ### 🚀 Baseline agent — successful landing
 
-[▶ Watch baseline rocket landing (MP4)](media/baseline_landing.mp4)
+https://github.com/user-attachments/assets/b9020941-2e81-4fdd-8b74-363596d85547
 
 <!-- OPTIONAL: Paste a GitHub-hosted video URL on its own line below to show the video inline if GitHub supports it. -->
 
