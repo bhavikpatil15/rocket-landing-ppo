@@ -34,7 +34,6 @@ Both agents trained for **1,000,000 timesteps each**, then underwent **100 deter
 
 
 
-<img width="1596" height="801" alt="Screenshot 2026-10-17 at 11 34 10 PM" src="https://github.com/user-attachments/assets/07332f0e-bd1a-4fe3-b4d4-d1bb9fc26eea" />
 
 
 | Metric | Baseline PPO | Reward-shaped PPO |
@@ -43,6 +42,11 @@ Both agents trained for **1,000,000 timesteps each**, then underwent **100 deter
 | Mean environment reward | **98.01** | -9.97 |
 | Average episode length | **564.4 steps** | 782.9 steps |
 | CPU training time | 144.2 s | 142.3 s |
+
+
+
+<img width="1596" height="801" alt="Screenshot 2026-10-17 at 11 34 10 PM" src="https://github.com/user-attachments/assets/253ffeb8-d78a-48df-82c0-1d5265de5d74" />
+
 
 **Combined training time:** **286.5 seconds (~4 min 47 sec)** on a MacBook Air, excluding evaluation, rendering, and installation. Runtime will vary by machine.
 
