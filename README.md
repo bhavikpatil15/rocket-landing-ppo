@@ -5,7 +5,6 @@ A reproducible, CPU-based comparison of the standard **LunarLander-v3** reward f
 
 **Python 3.11 · Gymnasium · Stable-Baselines3 · PPO · Box2D · NumPy · Matplotlib · ImageIO**
 
-## 🎬 Rocket Landing Videos
 
 
 ### 🚀 Baseline agent — successful landing
@@ -32,6 +31,11 @@ A reproducible, CPU-based comparison of the standard **LunarLander-v3** reward f
 ## 📊 Results
 
 Both agents trained for **1,000,000 timesteps each**, then underwent **100 deterministic evaluation episodes** using the **same 100 environment seeds (1000–1099)**. Both were scored with the *original environment reward* for a fair comparison.
+
+
+
+<img width="1596" height="801" alt="Screenshot 2026-10-17 at 11 34 10 PM" src="https://github.com/user-attachments/assets/07332f0e-bd1a-4fe3-b4d4-d1bb9fc26eea" />
+
 
 | Metric | Baseline PPO | Reward-shaped PPO |
 |---|---:|---:|
