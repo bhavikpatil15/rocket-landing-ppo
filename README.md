@@ -13,7 +13,6 @@ https://github.com/user-attachments/assets/b9020941-2e81-4fdd-8b74-363596d85547
 
 <!-- OPTIONAL: Paste a GitHub-hosted video URL on its own line below to show the video inline if GitHub supports it. -->
 
-**[Space for your baseline video preview or screenshot]**
 
 ### 🛬 Reward-shaped agent — landing demonstration (if want to download the video )
 
